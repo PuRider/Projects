@@ -1,0 +1,25 @@
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\bin\Debug\Практика ТРПО.exe.config
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\bin\Debug\Практика ТРПО.exe
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\bin\Debug\Практика ТРПО.pdb
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\Практика ТРПО.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\Практика ТРПО_MarkupCompile.cache
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\Практика ТРПО_MarkupCompile.lref
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\Практика ТРПО.g.resources
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\Практика_ТРПО.Properties.Resources.resources
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\Практика ТРПО.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\Практика ТРПО.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\Практика ТРПО.exe
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\Практика ТРПО.pdb
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\bin\Debug\MaterialDesignColors.dll
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\bin\Debug\MaterialDesignColors.pdb
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\Практика ТРПО.csproj.CopyComplete
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\App.baml
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\Authorization.g.cs
+C:\Users\USER\Desktop\Практика ТРПО\Практика ТРПО\obj\Debug\Authorization.baml

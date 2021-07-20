@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="e3b66276-3de8-451c-848a-58d106823961" ChangeDateTime="04/05/2021 10:18:19">
+    <Property Name="ElementName" Value="[dbo].[Администратор].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Администратор]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ID_Администратора" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="06bcb89c-f65a-4ca3-8857-3f39b10bc354" ChangeDateTime="04/05/2021 10:22:37">
+    <Property Name="ElementName" Value="[dbo].[Администратор].[ДатаРождения]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Администратор]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Дата Рождения" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="db8b4e6d-9e35-46de-b789-cc6af91db483" ChangeDateTime="04/05/2021 10:26:51">
+    <Property Name="ElementName" Value="[dbo].[Клиент].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Клиент]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ID_Клиент" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="5d620ab0-72ae-4cd2-950a-1c96071ad3c3" ChangeDateTime="04/05/2021 10:34:05">
+    <Property Name="ElementName" Value="[dbo].[Номер].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Номер]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ID_Номер" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f80fc6c5-d0c8-407a-9204-6ec301f348b1" ChangeDateTime="04/05/2021 10:52:35">
+    <Property Name="ElementName" Value="[dbo].[Услуга].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Услуга]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ID_Услуги" />
+  </Operation>
+</Operations>

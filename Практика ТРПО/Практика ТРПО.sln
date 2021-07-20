@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практика ТРПО", "Практика ТРПО\Практика ТРПО.csproj", "{A825E9C7-B080-4638-ACD0-975A6BF72308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A825E9C7-B080-4638-ACD0-975A6BF72308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A825E9C7-B080-4638-ACD0-975A6BF72308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A825E9C7-B080-4638-ACD0-975A6BF72308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A825E9C7-B080-4638-ACD0-975A6BF72308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F91176FE-A73C-4DEF-818B-3CEB0E6431A8}
+	EndGlobalSection
+EndGlobal
